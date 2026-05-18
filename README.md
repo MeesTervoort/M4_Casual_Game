@@ -41,3 +41,17 @@ Waarom blijft dit leuk?
 
 Juiciness
 - Ik maak deze actie satisfying door positieve versterking te gebruiken en complimenten als je dood gaat
+
+Mechanic
+-
+Wat hoort en ziet de player?
+- de player ziet de character omhoog gaan en hopelijk net tussen de obstakel doorheen gaan en hoort een woosh sfx (hopelijk als ik het niet verandert)
+
+Wat verandert aan de score?
+- de score zal omhoog gaan met 10 punten per obstakel
+
+Wat beweegt of animeert
+- de speler zal omhoog bewegen voor hoelang de speler de spatiebalk indrukt
+
+Wat maakt de actie satisfying
+- de actie dat satisfying is is in leven te blijven en een hogere score krijgen
