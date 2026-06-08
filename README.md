@@ -45,7 +45,7 @@ Juiciness
 Mechanic
 -
 Wat hoort en ziet de player?
-- de player ziet de character omhoog gaan en hopelijk net tussen de obstakel doorheen gaan en hoort een woosh sfx (hopelijk als ik het niet verandert)
+- de player ziet de character omhoog gaan en hopelijk net tussen de obstakel doorheen gaan en hoort een woosh sfx (hopelijk als ik het niet verandert) en een sfx als je spatie loslaat
 
 Wat verandert aan de score?
 - de score zal omhoog gaan met 10 punten per obstakel
