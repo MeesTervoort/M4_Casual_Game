@@ -9,6 +9,11 @@ public class Win : MonoBehaviour
 
     void Update()
     {
-        
+
+    }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene("SampleScene");
     }
 }
